@@ -4,8 +4,6 @@
 
 Olá e seja bem-vindo ao teste técnico para a vaga de desenvolvedor backend junior na Kor Solutions!
 
-Aqui na Kor, estamos comprometidos em revolucionar a indústria jurídica por meio da tecnologia. Nossa equipe está constantemente buscando inovação para simplificar e otimizar os processos legais.
-
 ## Desafio
 
 Neste desafio, você terá a oportunidade de demonstrar suas habilidades na criação de uma API RESTful em Node.js com TypeScript. Utilizando o nosso Modelo de Entidade Relacionamento (MER) como referência, sua tarefa é implementar endpoints para gerenciar processos legais e participantes associados a eles.
@@ -36,10 +34,10 @@ Você pode consultar o modelo com mais detalhes [aqui](https://dbdiagram.io/d/de
 
 ## Envio do Projeto
 
-Após finalizar a implementação, envie o link do seu repositório no GitHub para o e-mail matheus@batistela.tech, juntamente com seu nome completo.
+Após finalizar a implementação, envie o link do seu repositório no GitHub para o e-mail matheus.batistela@kor.solutions, juntamente com seu nome completo.
 
 ## Dúvidas
 
-Em caso de dúvidas durante o teste, por favor, abra uma nova issue neste repositório para que possamos ajudá-lo ;).
+Em caso de dúvidas durante o teste, por favor, abra uma nova [issue](https://github.com/kor-solutions/dev-test-backend-node-jr/issues/new/choose) neste repositório para que possamos ajudá-lo ;).
 
 Boa sorte! Estamos ansiosos para ver sua implementação ;).
