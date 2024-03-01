@@ -21,16 +21,16 @@ Você pode consultar o modelo com mais detalhes [aqui](https://dbdiagram.io/d/de
 
 1.  Endpoints do CRUD de processo:
     
-    -   `POST /processos`: Criar um novo processo
-    -   `GET /processos/:id`: Obter detalhes de um processo específico
-    -   `PUT /processos/:id`: Atualizar os detalhes de um processo específico
-    -   `DELETE /processos/:id`: Excluir um processo específico
+    -   `POST /processo`: Criar um novo processo
+    -   `GET /processo/:id`: Obter detalhes de um processo específico
+    -   `PUT /processo/:id`: Atualizar os detalhes de um processo específico
+    -   `DELETE /processo/:id`: Excluir um processo específico
 2.  Endpoint de listagem de processos com filtro por cliente e/ou participante:
     
     -   `GET /processos`: Listar todos os processos, com a capacidade de filtrar por cliente e/ou participante
 3.  Endpoint de listagem de participantes de um processo:
     
-    -   `GET /processos/:id/participantes`: Listar todos os participantes de um processo específico
+    -   `GET /processo/:id/participantes`: Listar todos os participantes de um processo específico
 
 ## Envio do Projeto
 
